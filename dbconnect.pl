@@ -9,8 +9,8 @@ use warnings;
 use DBI;
 
 my $db = "wordpress";
-my $user = "kpas";
-my $pass = "lor_029";
+my $user = "zxzxzx";
+my $pass = "zxxzx";
 my $host = "terra.pasewaldt.com";
 my $port = "3306";
 
