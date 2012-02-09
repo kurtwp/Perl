@@ -9,9 +9,15 @@ use warnings;
 use DBI;
 
 my $db = "wordpress";
+<<<<<<< HEAD
 my $user = "zoo";
 my $pass = "zxzxzx";
 my $host = "terra.example.com";
+=======
+my $user = "zxzxzx";
+my $pass = "zxxzx";
+my $host = "terra.pasewaldt.com";
+>>>>>>> 0cc4dbff7070df1633dc5048cc96461ed2b2dd64
 my $port = "3306";
 
 DBI->trace(0);
